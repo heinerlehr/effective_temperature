@@ -12,4 +12,5 @@ In cold weather, farms try to ventilate less - because then they have to heat th
 
 If controllers were perfect and barns were perfect, the ambient conditions inside would be indentical with the targets. However, that is not true. The sun, for example, has significant impact by heating up the barn; this triggers higher ventilation rates and lower temperatures (or effective temperatures) in the afternoons. At the same time, while heating does change the relative humidity (it dries the air), heating is expensive. If the outside relative humidity is too high, but the temperature is acceptable, controllers will allow for a higher relative humidity. As controller typically do not operate on effective temperature, this means that the thermal sensation will be stronger (colder or hotter).
 
+![alt text](ET+T+AH.png "Title")
 [Effective temperature, temperature and absolute humidity timeseries](ET+T+AH.png)
